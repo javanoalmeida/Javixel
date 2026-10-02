@@ -53,6 +53,10 @@ Se você estiver em um ambiente corporativo onde o **Firewall** ou **Antivírus 
 
 Foi criada uma versão **100% Web (HTML)** do Javixel. Ela é portátil, segura e não requer instalação.
 
-1. Baixe o arquivo **`Javixel.html`** deste repositório.
-2. Dê um duplo clique para abri-lo diretamente no seu navegador padrão (Chrome, Edge, Firefox, etc).
-3. Todo o processamento é feito **localmente** no seu navegador, mantendo suas fotos privadas, não exigindo acesso à internet para processar as imagens, e não levantando falsos positivos na segurança da sua empresa!
+**Como baixar apenas a versão Web:**
+1. Clique no arquivo **`Javixel.html`** aqui na lista de arquivos acima.
+2. No canto superior direito da caixa de código, procure por um botão chamado **Download raw file** (ícone de uma setinha para baixo).
+3. Clique nele para baixar o arquivo para o seu computador.
+4. Dê um duplo clique no arquivo baixado para abri-lo diretamente no seu navegador padrão (Chrome, Edge, Firefox, etc).
+
+*Dica: Todo o processamento é feito **localmente** no seu navegador, mantendo suas fotos privadas, não exigindo acesso à internet, e não levantando alertas de segurança na sua empresa!*
