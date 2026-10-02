@@ -43,3 +43,16 @@ Você não precisa instalar nenhum programa complexo no seu computador!
 - **Interface Gráfica (GUI):** Tkinter
 - **Processamento de Imagem:** Pillow (PIL)
 - **Empacotador:** PyInstaller
+- **Versão Web:** HTML5, CSS3, Vanilla JS, JSZip
+
+---
+
+## 🌐 Versão Web (Alternativa Anti-Bloqueio)
+
+Se você estiver em um ambiente corporativo onde o **Firewall** ou **Antivírus (TI)** bloqueiam a execução de arquivos `.exe`, nós temos a solução perfeita! 
+
+Foi criada uma versão **100% Web (HTML)** do Javixel. Ela é portátil, segura e não requer instalação.
+
+1. Baixe o arquivo **`Javixel.html`** deste repositório.
+2. Dê um duplo clique para abri-lo diretamente no seu navegador padrão (Chrome, Edge, Firefox, etc).
+3. Todo o processamento é feito **localmente** no seu navegador, mantendo suas fotos privadas, não exigindo acesso à internet para processar as imagens, e não levantando falsos positivos na segurança da sua empresa!
