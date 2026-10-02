@@ -10,7 +10,7 @@ Criado por: **Javan Oliveira de Almeida**
 
 ## 📸 Interface do Aplicativo
 
-![Interface do Javixel](javixel_mockup.jpg)
+![Interface do Javixel](javixel_mockup.png)
 
 ---
 
